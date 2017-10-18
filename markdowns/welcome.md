@@ -179,4 +179,4 @@ All the inner form controls are like the children to them. We can also access it
 
 I have used the conditional statement, if a user has touched the input field but not enter the values then, it displays the message. If user blurs the input field without any values then also it gives an error message.
 
-@[Sample Angular App Boilerplate]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html", "src/index.html"], "command": "./run.sh"})
+@[Angular Validation Tutorial]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html", "src/index.html"], "command": "./run.sh"})

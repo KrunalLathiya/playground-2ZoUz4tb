@@ -146,6 +146,7 @@ constructor(private fb: FormBuilder) {
     this.createForm();
 }
 ```
+
 We have used form builder to handle all the validation. So in that constructor, we are creating a form with the validation rules.
 ```javascript
 // app.component.ts
